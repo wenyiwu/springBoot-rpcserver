@@ -1,0 +1,5 @@
+
+rpc:
+  nameMap:
+    HelloWord: com.xiaoma.msgcenter.common.pojo.imp.HelloWordImp
+    Calculater: com.xiaoma.msgcenter.common.pojo.imp.Calculater

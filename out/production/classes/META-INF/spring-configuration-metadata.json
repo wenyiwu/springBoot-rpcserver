@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.xiaoma.msgcenter.common.model.RpcClassMap",
+      "name": "rpc",
+      "type": "com.xiaoma.msgcenter.common.model.RpcClassMap"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.xiaoma.msgcenter.common.model.RpcClassMap",
+      "name": "rpc.name-map",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    }
+  ]
+}
